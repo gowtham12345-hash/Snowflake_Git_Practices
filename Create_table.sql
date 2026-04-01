@@ -1,0 +1,2 @@
+CREATE TABLE demo AS 
+SELECT 1;
